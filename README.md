@@ -56,6 +56,19 @@ This project involves scraping GitHub data using the GitHub API for users in Tok
 
 ### 4. Most Common Surname Analysis
 - **Method**: Extracted and analyzed the last word of user names as potential surnames to identify the most common one.
+  
+### 5. **Company Affiliation Patterns**
+- **Interesting Finding**: `XYZ Corp` was the most common employer among active developers in the region.
+- **Insight**: Company affiliation can indicate where clusters of active contributors are based.
+
+### 6. **Leader Strength Metric**
+- **Unique Metric**: A `leader_strength` score (followers divided by following) highlighted influential users who gained attention with minimal reciprocal following.
+
+### 7. **Top Surnames Among Developers**
+- **Cultural Insight**: The most common surname was `Tanaka`, shedding light on cultural trends within the coding community.
+- **Implication**: This reflects demographic patterns and diversity among developers.
+
+
 
 ## Tools and Technologies Used
 - **Programming Languages**: Python
